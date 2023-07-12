@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Electronics Engineering in WRC<br>🌱 I’m currently learning App development using flutter and machine learning<br>
+🔭 I’m currently studying Electronics Engineering in WRC<br>🌱 I’m currently learning App development using flutter, machine learning and deep learning<br>
 
 
 ## 🌐 Socials:
