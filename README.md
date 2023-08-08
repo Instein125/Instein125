@@ -1,4 +1,5 @@
 # 💫 About Me:
+## Hi there, It's Samman Shrestha
 🔭 I’m currently studying Electronics Engineering in WRC<br>🌱 I’m currently learning App development using flutter, machine learning and deep learning<br>
 
 
